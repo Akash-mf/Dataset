@@ -1,0 +1,21 @@
+MovieID,Title,Genre,ReleaseYear,Duration,Rating,Votes,Platform,Country
+1,Inception,Sci-Fi,2010,148,8.8,2100000,Netflix,USA
+2,The Dark Knight,Action,2008,152,9.0,2500000,Prime,USA
+3,Interstellar,Sci-Fi,2014,169,8.6,1700000,Netflix,USA
+4,Avengers: Endgame,Action,2019,181,8.4,1200000,Disney+,USA
+5,Parasite,Thriller,2019,132,8.6,800000,Hotstar,South Korea
+6,Joker,Drama,2019,122,8.5,1300000,HBO Max,USA
+7,The Irishman,Drama,2019,209,7.8,450000,Netflix,USA
+8,Tenet,Thriller,2020,150,7.4,650000,Prime,UK
+9,The Social Network,Drama,2010,120,7.7,700000,Netflix,USA
+10,La La Land,Romance,2016,128,8.0,600000,Disney+,Canada
+11,The Matrix,Sci-Fi,1999,136,8.7,1900000,Prime,USA
+12,Pulp Fiction,Thriller,1994,154,8.9,2100000,HBO Max,USA
+13,Fight Club,Drama,1999,139,8.8,1900000,Netflix,USA
+14,The Godfather,Drama,1972,175,9.2,1700000,Prime,USA
+15,Forrest Gump,Romance,1994,142,8.8,1900000,Netflix,USA
+16,The Lion King,Animation,1994,88,8.5,1100000,Disney+,USA
+17,Frozen,Animation,2013,102,7.5,650000,Disney+,Canada
+18,Black Panther,Action,2018,134,7.3,800000,Hotstar,USA
+19,Dangal,Drama,2016,161,8.4,250000,Netflix,India
+20,Sacred Games,Thriller,2018,50,8.6,150000,Netflix,India

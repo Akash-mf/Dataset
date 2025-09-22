@@ -1,0 +1,201 @@
+CustomerID,SignupDate,Email,Country,City,Gender,BirthDate,AcquisitionChannel
+C1000,2023-10-17,user0@example.com,Canada,Vancouver,Other,2004-06-04,Organic
+C1001,2022-04-25,user1@example.com,UK,Manchester,Male,2009-07-08,Organic
+C1002,2022-01-26,user2@example.com,UK,London,Other,1993-12-09,Referral
+C1003,2024-01-30,user3@example.com,Canada,Toronto,Male,2005-12-09,Paid
+C1004,2022-10-09,user4@example.com,Canada,Toronto,Other,2003-09-15,Email
+C1005,2022-09-08,user5@example.com,USA,New York,Female,2002-12-17,Paid
+C1006,2022-08-17,user6@example.com,USA,New York,Other,1992-09-12,Organic
+C1007,2022-05-23,user7@example.com,Germany,Berlin,Other,1994-10-22,Paid
+C1008,2024-01-25,user8@example.com,Germany,Berlin,Female,2012-11-01,Email
+C1009,2022-04-15,user9@example.com,India,Bangalore,Other,1998-03-10,Referral
+C1010,2023-11-24,user10@example.com,Germany,Munich,Female,2012-05-19,Email
+C1011,2024-01-29,user11@example.com,USA,New York,Male,1992-01-15,Referral
+C1012,2024-07-02,user12@example.com,USA,Chicago,Other,1999-06-28,Paid
+C1013,2023-07-13,user13@example.com,USA,New York,Other,2017-06-22,Organic
+C1014,2022-03-31,user14@example.com,India,Mumbai,Male,2003-12-27,Organic
+C1015,2023-08-28,user15@example.com,Canada,Toronto,Female,2019-03-05,Email
+C1016,2023-03-09,user16@example.com,India,Bangalore,Male,2014-10-12,Email
+C1017,2022-02-02,user17@example.com,India,Delhi,Female,1997-09-15,Organic
+C1018,2022-01-31,user18@example.com,USA,Chicago,Female,2005-01-21,Email
+C1019,2022-04-06,user19@example.com,Germany,Munich,Other,1991-08-06,Organic
+C1020,2022-08-12,user20@example.com,USA,San Francisco,Other,2004-05-21,Organic
+C1021,2022-08-27,user21@example.com,India,Mumbai,Male,2013-03-22,Email
+C1022,2023-06-02,user22@example.com,India,Delhi,Male,2001-08-29,Email
+C1023,2023-09-09,user23@example.com,India,Mumbai,Female,2013-11-07,Organic
+C1024,2022-01-28,user24@example.com,USA,Chicago,Other,1989-10-29,Organic
+C1025,2023-07-29,user25@example.com,India,Mumbai,Female,2010-12-13,Email
+C1026,2022-07-23,user26@example.com,India,Delhi,Male,1996-07-20,Email
+C1027,2024-01-04,user27@example.com,USA,San Francisco,Female,2009-07-29,Referral
+C1028,2023-10-28,user28@example.com,Germany,Munich,Male,1997-09-07,Referral
+C1029,2023-12-20,user29@example.com,India,Mumbai,Other,2013-06-27,Organic
+C1030,2023-07-13,user30@example.com,UK,London,Male,2015-05-16,Email
+C1031,2023-03-06,user31@example.com,Canada,Toronto,Male,2011-12-12,Organic
+C1032,2022-08-14,user32@example.com,India,Mumbai,Other,1992-03-19,Paid
+C1033,2023-04-05,user33@example.com,Germany,Berlin,Other,2000-03-17,Organic
+C1034,2023-08-27,user34@example.com,Canada,Toronto,Female,2018-08-27,Referral
+C1035,2022-10-12,user35@example.com,UK,London,Other,2003-04-05,Paid
+C1036,2024-04-08,user36@example.com,UK,Manchester,Male,2018-02-13,Referral
+C1037,2024-06-09,user37@example.com,Germany,Munich,Male,1989-08-01,Email
+C1038,2022-01-07,user38@example.com,Canada,Toronto,Male,2013-04-13,Paid
+C1039,2024-02-17,user39@example.com,Canada,Vancouver,Male,2004-10-27,Organic
+C1040,2024-04-05,user40@example.com,India,Delhi,Female,1996-03-29,Email
+C1041,2022-06-13,user41@example.com,Canada,Vancouver,Other,2018-07-02,Organic
+C1042,2023-12-16,user42@example.com,Canada,Vancouver,Other,1993-10-24,Paid
+C1043,2023-03-09,user43@example.com,UK,London,Male,2013-12-25,Paid
+C1044,2022-12-15,user44@example.com,UK,Manchester,Other,1998-08-12,Referral
+C1045,2022-10-12,user45@example.com,India,Bangalore,Other,2001-01-03,Email
+C1046,2022-06-09,user46@example.com,UK,London,Male,2017-08-14,Email
+C1047,2022-08-09,user47@example.com,UK,London,Male,2004-02-16,Paid
+C1048,2024-09-07,user48@example.com,UK,London,Other,2008-12-26,Email
+C1049,2024-02-21,user49@example.com,Canada,Toronto,Male,1992-07-16,Paid
+C1050,2022-12-11,user50@example.com,Canada,Toronto,Female,2015-04-18,Paid
+C1051,2022-04-15,user51@example.com,Germany,Berlin,Male,2002-12-29,Referral
+C1052,2022-04-05,user52@example.com,USA,San Francisco,Male,2000-05-11,Organic
+C1053,2023-01-25,user53@example.com,UK,Manchester,Other,1996-02-06,Paid
+C1054,2022-04-10,user54@example.com,India,Mumbai,Female,1990-04-12,Paid
+C1055,2023-01-03,user55@example.com,UK,Manchester,Other,2000-04-18,Referral
+C1056,2024-05-17,user56@example.com,India,Bangalore,Male,2006-04-29,Organic
+C1057,2022-12-19,user57@example.com,Germany,Berlin,Male,2009-10-24,Referral
+C1058,2023-09-11,user58@example.com,UK,London,Male,1990-03-24,Paid
+C1059,2022-09-28,user59@example.com,Germany,Munich,Female,1992-04-12,Referral
+C1060,2024-04-06,user60@example.com,UK,Manchester,Other,2013-03-21,Referral
+C1061,2022-02-14,user61@example.com,USA,New York,Female,1997-03-05,Referral
+C1062,2024-01-18,user62@example.com,USA,New York,Other,2008-08-28,Referral
+C1063,2023-04-16,user63@example.com,UK,Manchester,Other,2012-02-09,Organic
+C1064,2023-07-04,user64@example.com,Germany,Berlin,Female,1991-02-27,Email
+C1065,2022-05-08,user65@example.com,USA,Chicago,Other,2019-04-01,Paid
+C1066,2024-09-23,user66@example.com,UK,Manchester,Male,2018-12-17,Referral
+C1067,2024-08-02,user67@example.com,Canada,Vancouver,Other,1994-10-03,Referral
+C1068,2023-01-23,user68@example.com,Canada,Vancouver,Other,2007-06-27,Referral
+C1069,2022-03-22,user69@example.com,Germany,Munich,Other,1994-11-16,Paid
+C1070,2023-07-20,user70@example.com,Germany,Munich,Other,1996-12-21,Referral
+C1071,2022-10-28,user71@example.com,Germany,Berlin,Female,2002-01-13,Paid
+C1072,2024-04-29,user72@example.com,Germany,Munich,Female,2008-12-25,Email
+C1073,2023-10-06,user73@example.com,India,Bangalore,Female,1996-10-11,Organic
+C1074,2023-09-26,user74@example.com,UK,Manchester,Male,1999-09-14,Referral
+C1075,2024-06-25,user75@example.com,India,Mumbai,Male,1990-04-06,Organic
+C1076,2024-06-01,user76@example.com,India,Delhi,Other,1992-06-07,Email
+C1077,2023-01-06,user77@example.com,Germany,Berlin,Other,2006-05-23,Email
+C1078,2023-08-15,user78@example.com,Germany,Berlin,Male,2018-08-05,Organic
+C1079,2022-07-16,user79@example.com,USA,San Francisco,Male,1997-01-20,Email
+C1080,2023-12-23,user80@example.com,USA,Chicago,Male,1994-08-11,Email
+C1081,2022-03-13,user81@example.com,India,Delhi,Other,2012-12-28,Referral
+C1082,2022-02-16,user82@example.com,Germany,Munich,Other,2009-03-02,Paid
+C1083,2023-11-09,user83@example.com,Germany,Munich,Female,2000-04-03,Referral
+C1084,2022-08-22,user84@example.com,Canada,Vancouver,Other,1999-11-24,Referral
+C1085,2024-03-02,user85@example.com,Germany,Berlin,Other,2001-12-25,Paid
+C1086,2022-10-24,user86@example.com,UK,Manchester,Female,2013-05-24,Organic
+C1087,2022-03-23,user87@example.com,India,Mumbai,Male,2006-05-07,Paid
+C1088,2024-05-25,user88@example.com,India,Mumbai,Female,2007-06-14,Referral
+C1089,2022-08-27,user89@example.com,Canada,Vancouver,Female,1991-12-17,Paid
+C1090,2024-06-06,user90@example.com,Germany,Munich,Other,1990-01-16,Email
+C1091,2022-04-14,user91@example.com,Germany,Berlin,Female,2002-07-24,Email
+C1092,2023-01-25,user92@example.com,Germany,Berlin,Female,1999-01-04,Referral
+C1093,2022-10-12,user93@example.com,Germany,Munich,Male,2006-08-11,Referral
+C1094,2023-04-10,user94@example.com,Germany,Berlin,Female,1994-11-22,Organic
+C1095,2023-10-13,user95@example.com,Germany,Berlin,Male,2017-12-30,Email
+C1096,2024-05-04,user96@example.com,India,Delhi,Male,1991-06-03,Referral
+C1097,2023-01-09,user97@example.com,Germany,Munich,Male,2009-07-24,Referral
+C1098,2022-06-16,user98@example.com,UK,Manchester,Female,2008-01-28,Referral
+C1099,2023-01-15,user99@example.com,USA,San Francisco,Male,2013-05-12,Organic
+C1100,2022-12-30,user100@example.com,UK,London,Other,1992-03-30,Organic
+C1101,2022-08-03,user101@example.com,USA,New York,Male,1990-01-29,Paid
+C1102,2023-11-18,user102@example.com,India,Mumbai,Female,2019-03-13,Organic
+C1103,2022-10-01,user103@example.com,Canada,Toronto,Female,2000-08-29,Referral
+C1104,2023-12-20,user104@example.com,India,Bangalore,Other,1994-04-21,Paid
+C1105,2024-08-17,user105@example.com,UK,London,Other,1990-04-26,Referral
+C1106,2023-12-01,user106@example.com,Canada,Vancouver,Female,1998-01-23,Organic
+C1107,2023-10-26,user107@example.com,Canada,Toronto,Male,2002-09-11,Organic
+C1108,2022-03-15,user108@example.com,Canada,Toronto,Female,2013-01-23,Email
+C1109,2023-09-16,user109@example.com,UK,London,Other,2018-03-19,Referral
+C1110,2023-10-13,user110@example.com,USA,San Francisco,Female,1993-11-25,Email
+C1111,2022-06-25,user111@example.com,UK,Manchester,Other,1996-01-11,Email
+C1112,2023-07-01,user112@example.com,India,Bangalore,Other,2018-05-06,Referral
+C1113,2024-01-17,user113@example.com,Canada,Vancouver,Female,2008-09-14,Referral
+C1114,2022-09-08,user114@example.com,UK,London,Male,2001-09-04,Email
+C1115,2022-06-17,user115@example.com,India,Delhi,Other,2016-07-17,Email
+C1116,2023-04-19,user116@example.com,UK,London,Female,2003-09-30,Paid
+C1117,2023-01-24,user117@example.com,Germany,Berlin,Female,2000-10-02,Referral
+C1118,2022-10-04,user118@example.com,UK,Manchester,Other,1989-08-15,Paid
+C1119,2024-08-05,user119@example.com,USA,New York,Other,2007-05-25,Email
+C1120,2023-10-18,user120@example.com,Canada,Toronto,Other,2010-07-10,Email
+C1121,2023-12-06,user121@example.com,Germany,Berlin,Male,2002-05-13,Paid
+C1122,2023-07-25,user122@example.com,Germany,Berlin,Female,2018-12-13,Referral
+C1123,2022-08-13,user123@example.com,Germany,Munich,Female,2013-11-08,Referral
+C1124,2023-12-03,user124@example.com,UK,Manchester,Female,2002-12-02,Referral
+C1125,2022-11-29,user125@example.com,India,Mumbai,Other,1997-10-21,Referral
+C1126,2024-05-13,user126@example.com,USA,Chicago,Other,1997-06-21,Paid
+C1127,2024-02-26,user127@example.com,India,Bangalore,Female,2001-07-27,Referral
+C1128,2024-03-05,user128@example.com,USA,New York,Female,1999-05-16,Referral
+C1129,2022-02-27,user129@example.com,India,Delhi,Male,2013-02-15,Paid
+C1130,2022-08-23,user130@example.com,UK,London,Male,2013-12-27,Referral
+C1131,2024-04-21,user131@example.com,India,Bangalore,Female,1993-10-07,Organic
+C1132,2022-02-02,user132@example.com,Canada,Vancouver,Female,2010-08-22,Email
+C1133,2024-04-04,user133@example.com,UK,London,Male,2000-06-28,Email
+C1134,2022-11-20,user134@example.com,USA,New York,Female,2011-03-23,Organic
+C1135,2023-02-15,user135@example.com,Canada,Toronto,Male,1995-11-10,Referral
+C1136,2022-10-02,user136@example.com,USA,New York,Male,2014-03-14,Email
+C1137,2022-03-09,user137@example.com,Canada,Toronto,Other,2006-03-25,Email
+C1138,2022-08-05,user138@example.com,Germany,Munich,Other,2008-05-26,Referral
+C1139,2024-07-24,user139@example.com,Canada,Toronto,Other,1993-08-13,Paid
+C1140,2024-08-23,user140@example.com,India,Delhi,Other,1992-10-22,Paid
+C1141,2023-08-04,user141@example.com,India,Mumbai,Other,1992-07-13,Paid
+C1142,2024-06-16,user142@example.com,USA,San Francisco,Female,2015-10-21,Email
+C1143,2024-01-06,user143@example.com,UK,London,Male,2002-02-02,Referral
+C1144,2022-11-19,user144@example.com,Germany,Berlin,Other,1999-08-21,Referral
+C1145,2022-08-06,user145@example.com,Canada,Toronto,Female,1994-04-25,Paid
+C1146,2023-11-03,user146@example.com,India,Delhi,Male,1992-05-14,Organic
+C1147,2023-05-27,user147@example.com,India,Delhi,Other,2014-09-12,Referral
+C1148,2023-02-10,user148@example.com,Germany,Berlin,Female,2002-10-22,Email
+C1149,2024-06-24,user149@example.com,UK,Manchester,Female,1992-10-09,Organic
+C1150,2024-07-25,user150@example.com,Germany,Munich,Other,2000-05-25,Organic
+C1151,2023-10-21,user151@example.com,USA,New York,Other,2014-12-20,Organic
+C1152,2023-04-15,user152@example.com,UK,London,Male,2010-04-09,Email
+C1153,2022-05-27,user153@example.com,UK,London,Other,2008-09-19,Email
+C1154,2022-09-29,user154@example.com,USA,San Francisco,Female,2007-06-26,Referral
+C1155,2022-05-23,user155@example.com,UK,London,Male,2003-12-17,Email
+C1156,2022-09-10,user156@example.com,Germany,Munich,Other,2007-02-17,Organic
+C1157,2024-02-02,user157@example.com,Germany,Berlin,Female,2000-06-27,Referral
+C1158,2023-07-29,user158@example.com,USA,San Francisco,Other,1989-03-20,Email
+C1159,2023-07-06,user159@example.com,Germany,Berlin,Male,2012-06-03,Referral
+C1160,2022-09-27,user160@example.com,Canada,Vancouver,Other,2008-12-29,Organic
+C1161,2024-02-04,user161@example.com,India,Delhi,Other,1995-01-16,Referral
+C1162,2023-08-22,user162@example.com,Germany,Munich,Male,1990-06-17,Paid
+C1163,2023-03-15,user163@example.com,India,Delhi,Other,1989-10-12,Email
+C1164,2024-07-08,user164@example.com,USA,New York,Male,2009-11-12,Organic
+C1165,2023-08-21,user165@example.com,India,Delhi,Other,2002-04-04,Referral
+C1166,2023-02-13,user166@example.com,Germany,Munich,Female,2000-02-06,Email
+C1167,2023-01-06,user167@example.com,Canada,Toronto,Female,1997-09-18,Paid
+C1168,2022-08-13,user168@example.com,USA,San Francisco,Female,2004-05-30,Referral
+C1169,2022-05-22,user169@example.com,USA,San Francisco,Other,2002-07-23,Email
+C1170,2023-06-06,user170@example.com,India,Delhi,Other,2010-11-22,Referral
+C1171,2023-05-21,user171@example.com,UK,Manchester,Female,2003-08-08,Paid
+C1172,2022-04-04,user172@example.com,India,Bangalore,Female,1999-08-23,Email
+C1173,2024-02-13,user173@example.com,USA,San Francisco,Other,2010-05-20,Email
+C1174,2022-02-18,user174@example.com,Germany,Berlin,Female,1990-10-29,Paid
+C1175,2024-05-31,user175@example.com,Canada,Vancouver,Male,2008-11-30,Organic
+C1176,2022-04-23,user176@example.com,Canada,Vancouver,Male,1995-08-19,Email
+C1177,2022-06-06,user177@example.com,India,Mumbai,Female,2001-01-20,Referral
+C1178,2023-10-05,user178@example.com,Canada,Vancouver,Other,1992-10-07,Referral
+C1179,2022-06-13,user179@example.com,Canada,Vancouver,Female,2017-04-13,Email
+C1180,2024-03-22,user180@example.com,Canada,Toronto,Other,1992-03-27,Paid
+C1181,2023-11-28,user181@example.com,UK,London,Other,1993-03-21,Email
+C1182,2023-03-09,user182@example.com,USA,Chicago,Other,1993-09-03,Email
+C1183,2023-09-03,user183@example.com,India,Bangalore,Female,1990-06-19,Organic
+C1184,2022-03-07,user184@example.com,UK,London,Female,2005-03-31,Referral
+C1185,2023-01-30,user185@example.com,Germany,Berlin,Male,2012-12-28,Email
+C1186,2023-01-26,user186@example.com,Canada,Toronto,Male,1997-01-07,Organic
+C1187,2023-09-03,user187@example.com,Canada,Vancouver,Other,1999-12-20,Email
+C1188,2023-04-25,user188@example.com,Canada,Toronto,Male,2009-11-07,Referral
+C1189,2023-06-26,user189@example.com,Germany,Munich,Other,1989-08-02,Email
+C1190,2022-09-15,user190@example.com,UK,London,Male,2008-12-24,Referral
+C1191,2024-09-21,user191@example.com,Canada,Vancouver,Other,2008-03-13,Referral
+C1192,2023-07-21,user192@example.com,Germany,Munich,Male,2006-06-03,Email
+C1193,2024-05-31,user193@example.com,USA,New York,Female,2014-10-27,Referral
+C1194,2024-08-23,user194@example.com,Canada,Vancouver,Other,2002-05-30,Organic
+C1195,2022-01-12,user195@example.com,Germany,Munich,Male,2014-07-21,Organic
+C1196,2023-11-28,user196@example.com,Canada,Vancouver,Female,1999-06-28,Referral
+C1197,2024-01-09,user197@example.com,India,Bangalore,Male,2017-01-06,Referral
+C1198,2022-04-28,user198@example.com,India,Bangalore,Male,2017-04-24,Organic
+C1199,2023-11-30,user199@example.com,UK,Manchester,Male,2015-03-01,Referral
