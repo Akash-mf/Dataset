@@ -1,0 +1,8 @@
+Date,Product,Category,Sales,Quantity,Profit,Region
+2025-01-01,Laptop,Electronics,800,1,200,East
+2025-01-01,Headphones,Electronics,150,2,50,West
+2025-01-02,Shirt,Clothing,50,3,15,North
+2025-01-02,Tablet,Electronics,300,1,80,South
+2025-01-03,Shoes,Clothing,90,2,25,East
+2025-01-04,Smartphone,Electronics,600,1,150,North
+2025-01-05,Watch,Accessories,120,1,40,West
