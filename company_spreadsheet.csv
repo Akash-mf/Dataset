@@ -1,0 +1,101 @@
+id,first_name,last_name,department,start_date,tshirt_size,vacation_taken
+1,Krissie,Lates,Services,4/2/2004,XL,6.8
+2,Jillie,Noblett,Business Development,11/26/2014,2XL,24.9
+3,Lila,Crepin,Support,11/16/2009,3XL,17.9
+4,Hugo,Lloris,Human Resources,11/11/2017,XL,19.1
+5,Kenton,Scadding,Services,7/28/2008,2XL,20
+6,Mortie,Bearham,Sales,6/12/2019,S,15.7
+7,Giulia,Carass,Engineering,7/18/2016,S,22
+8,Yulma,Weeden,Accounting,3/16/2002,2XL,26.1
+9,Ram,Manuel,Legal,6/23/2002,,29.6
+10,Harry,Kane,Business Development,1/25/2019,3XL,0.7
+11,Kimball,Toop,Marketing,11/14/2018,2XL,25.7
+12,Niles,Burnip,Engineering,11/18/2018,,18.4
+13,Ive,McCutheon,Research and Development,9/30/2015,2XL,11
+14,Madison,Bispham,Legal,3/21/2016,2XL,11.4
+15,Glennie,Davisson,Support,3/18/2011,S,13.6
+16,Dominik,Reis,Research and Development,9/20/2008,,26.3
+17,Gareth,Bale,Accounting,11/5/2013,S,2.4
+18,Callida,Shelliday,Business Development,6/28/2016,,19.4
+19,Killy,Freiburger,Business Development,9/5/2006,M,5.9
+20,Orran,Kyles,Business Development,5/13/2020,3XL,27.5
+21,Connie,Dory,Business Development,8/10/2009,2XL,25.4
+22,Sylvan,Servant,Services,7/6/2014,S,7.1
+23,Philippine,Fletham,Research and Development,3/20/2009,XL,19.7
+24,Eadith,Longmire,Research and Development,7/24/2009,XL,6.1
+25,Creighton,Hallatt,Accounting,6/22/2019,XS,21.4
+26,Ashleigh,Wildes,Accounting,4/29/2005,M,11.9
+27,Melosa,Clutram,Business Development,10/10/2002,M,20.1
+28,Rowland,Bwye,Accounting,11/2/2011,S,18.1
+29,Leonerd,Olwen,Sales,6/10/2003,,20.2
+30,Elberta,Boyton,Business Development,6/1/2005,2XL,1.2
+31,Katine,Ferreres,Research and Development,2/10/2020,XS,29.2
+32,Ashton,Surby,Services,1/31/2020,2XL,12.4
+33,Giralda,Bunclark,Business Development,7/20/2012,XS,17.5
+34,Chad,Bissatt,Services,8/16/2011,3XL,23.8
+35,Amie,Westwell,Services,7/31/2019,L,27.9
+36,Melli,Scrivenor,Legal,12/14/2003,L,23
+37,Dar,Ely,Business Development,5/13/2014,L,9
+38,Nicky,Persitt,Research and Development,10/6/2012,XS,4.4
+39,Vivianna,Pittel,Business Development,11/4/2010,S,16.2
+40,Micheil,Leathart,Legal,11/9/2015,S,22.3
+41,Claudius,Chaffe,Accounting,4/18/2004,S,24.8
+42,Barth,Manford,Sales,12/30/2011,3XL,19.8
+43,Harv,Lankham,Research and Development,5/17/2019,XS,21.6
+44,Ruprecht,Dockrell,Accounting,1/13/2011,3XL,14.4
+45,Chelsea,Wehden,Accounting,1/2/2008,,2.2
+46,Marlie,Congdon,Business Development,12/28/2011,2XL,8.6
+47,Rikki,Spancock,Marketing,12/20/2010,L,25.1
+48,Basil,Bilovus,Engineering,8/21/2019,,29.9
+49,Milzie,Quittonden,Human Resources,12/5/2013,S,26.6
+50,Ludvig,Gurr,Human Resources,11/22/2006,XS,9.1
+51,Kelsey,Skingley,Accounting,2/13/2014,3XL,19.1
+52,Titos,Hise,Services,8/21/2009,,10.1
+53,Mommy,Muzzillo,Support,3/25/2003,3XL,0.8
+54,Thor,Ainger,Marketing,2/26/2013,L,19.3
+55,Collete,Zanni,Accounting,2/17/2019,,19.4
+56,Arie,Gourlay,Marketing,2/25/2005,S,26.9
+57,Ezri,Quaintance,Legal,7/12/2006,2XL,5.6
+58,Ailbert,Lowdyane,Accounting,3/6/2007,3XL,19.6
+59,Hall,Reynalds,Accounting,7/27/2012,XS,13.8
+60,Dalt,Olensby,Engineering,8/27/2008,,9.8
+61,Gillian,Lambshine,Legal,8/26/2019,XS,13.6
+62,Sasha,Coopland,Support,6/5/2003,,17.5
+63,Lurline,McLucas,Legal,11/2/2010,3XL,10
+64,Boyd,Ziehms,Support,8/4/2010,S,17.9
+65,Concordia,Surgen,Engineering,9/8/2004,3XL,2
+66,Meredithe,Spyer,Sales,6/30/2006,XL,22.3
+67,Eba,Brigstock,Engineering,9/21/2006,M,24.4
+68,Wilone,Davis,Services,9/1/2002,XL,20.1
+69,Natalina,Jan,Legal,11/28/2016,S,7.1
+70,Harvey,Lown,Engineering,10/24/2009,3XL,20.4
+71,Ileana,Arnholtz,Services,4/6/2018,S,13.6
+72,Alwyn,Monan,Legal,6/29/2019,L,24.6
+73,Jillane,Leppard,Business Development,2/25/2005,XS,22.5
+74,Sheppard,Benois,Research and Development,7/13/2005,XL,16.7
+75,Isadora,Slyde,Sales,12/26/2015,M,21.3
+76,Davida,Cuttler,Research and Development,8/10/2017,XS,2
+77,Faith,Schroeder,Engineering,11/19/2015,3XL,21.2
+78,Haskel,Duiged,Business Development,5/6/2014,2XL,19.7
+79,Ruby,D'Ambrosio,Support,4/25/2017,,9
+80,Blakeley,Leavold,Accounting,5/31/2019,S,14.5
+81,Nesta,Tordoff,Business Development,4/21/2012,M,16.2
+82,Lilyan,Rougier,Legal,4/22/2013,3XL,3.2
+83,Allyson,Keri,Engineering,3/14/2018,,21.5
+84,Gawain,Hiscoke,Business Development,3/4/2005,L,22.9
+85,Fancie,Ings,Legal,9/18/2005,S,20.5
+86,Cathrine,Dunrige,Sales,10/10/2011,L,27.6
+87,Kalindi,Brettel,Business Development,2/27/2016,2XL,25
+88,Moise,Urian,Accounting,10/10/2018,,26.6
+89,Otho,Ricardin,Support,1/10/2015,,28.8
+90,Sterne,Rothera,Services,10/15/2020,,2.9
+91,Darrin,Ingilson,Engineering,1/20/2016,L,23.3
+92,Bobette,Windas,Legal,10/1/2009,M,22.3
+93,Malanie,Dockwra,Marketing,6/11/2011,S,0.6
+94,Giffard,Fried,Human Resources,5/24/2013,XL,11.7
+95,Gilly,Featenby,Support,4/26/2020,L,0.4
+96,Obadias,Forson,Sales,4/1/2020,L,19.6
+97,Danna,Langeren,Sales,12/9/2004,,7.8
+98,Krista,Verni,Marketing,1/5/2002,,2.7
+99,Ambrose,Railton,Business Development,4/9/2010,M,5
+100,Nickolas,Beavors,Business Development,12/20/2014,M,15
